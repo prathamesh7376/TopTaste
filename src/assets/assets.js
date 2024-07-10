@@ -171,7 +171,7 @@ export const food_list = [
     _id: "6",
     name: "Peri Peri Rolls",
     image: food_6,
-    price: 120,
+    price: 100,
     description:
       "Food provides essential nutrients for overall health and well-being",
     category: "Rolls",
